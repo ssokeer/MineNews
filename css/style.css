@@ -144,6 +144,14 @@ h1{
     display: none;
 }
 
+#novosti{
+    color: #67d3e0;
+}
+
+#contacta{
+    color: #67d3e0;
+}
+
 .show{
     display: block !important;
 }
