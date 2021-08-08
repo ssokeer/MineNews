@@ -152,6 +152,13 @@ h1{
     color: #67d3e0;
 }
 
+#ramka{
+    border: 1px solid grey;
+    margin-top: 10px;
+    padding-left: 5px;
+    
+}
+
 .show{
     display: block !important;
 }
