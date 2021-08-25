@@ -110,6 +110,27 @@ h1{
 
 }
 
+.galleryM{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.galleryM img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 5px;
+    transition: all 0.3s;
+}
+
+.galleryM img:hover{
+    transform: scale(1.05);
+    transition: all 0.3s;
+
+}
+
 .row{
     overflow: auto;
 }
